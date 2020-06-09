@@ -45,15 +45,36 @@ https://twitter.com/phil_eaton
 An extensible MySQL server implementation in Go
 https://github.com/src-d/go-mysql-server
 
+https://github.com/stripe/safesql
+
 
 # PYTHON
 
 inferring sql queries from plain-text questions about tables
 https://github.com/paulfitz/mlsql
 https://news.ycombinator.com/item?id=20101381
+https://github.com/uber/py-find-injection
 
+
+# RUBY
+
+https://github.com/purcell/sqlint
 
 # RUST
 
 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 https://github.com/launchbadge/sqlx/
+
+
+# C++
+Automatically identify anti-patterns in SQL queries
+https://github.com/jarulraj/sqlcheck
+
+
+# C#
+https://github.com/tsqllint/tsqllint
+https://github.com/ashleyglee/TSqlRules
+
+
+# MISC
+https://github.com/analysis-tools-dev/static-analysis
