@@ -4,11 +4,11 @@ https://docs.google.com/spreadsheets/d/1os4lnrA8OPj6_fSNvXYvFmIEwOMkV2Q2L2irCnjS
 
 # AWS
 wework + aws:
-https://www.wework.com/ru-RU/signup?plan_ref=we_membership
-https://store.wework.com/web-presence/aws-activate
+- https://www.wework.com/ru-RU/signup?plan_ref=we_membership
+- https://store.wework.com/web-presence/aws-activate
 
 
-https://aws.amazon.com/activate/ Кредиты на любые услуги AWS для стартапов	до 100 тысяч $	до 1 тысяч $ (иногда можно договориться до 5 тысяч)
+- https://aws.amazon.com/activate/ Кредиты на любые услуги AWS для стартапов	до 100 тысяч $	до 1 тысяч $ (иногда можно договориться до 5 тысяч)
 
 
 Как от AWS получить 1000$ на стартап:
@@ -24,14 +24,14 @@ https://www.f6s.com/deals/7962/up-to-30k-in-aws-web-hosting	Кредиты на 
 
 
 # MORE CLOUD
-https://www.digitalocean.com/hatch/
-https://developer.ibm.com/startups/
-https://cloud.google.com/developers/startups/
-https://startups.microsoft.com/en-us/
-https://www.alibabacloud.com/startup
+- https://www.digitalocean.com/hatch/
+- https://developer.ibm.com/startups/
+- https://cloud.google.com/developers/startups/
+- https://startups.microsoft.com/en-us/
+- https://www.alibabacloud.com/startup
 
 # Open-source alternatives and tools
-https://opensource.builders/
-https://free-for.dev
-https://acrossapp.com/blog/how-a-2-person-startup-already-uses-28-other-tools
+- https://opensource.builders/
+- https://free-for.dev
+- https://acrossapp.com/blog/how-a-2-person-startup-already-uses-28-other-tools
 
