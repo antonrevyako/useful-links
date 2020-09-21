@@ -26,6 +26,15 @@ https://github.com/taozhi8833998/node-sql-parser
 Generate Typescript types from Postgres
 https://github.com/kristiandupont/kanel
 
+
+A SQL database implemented purely in TypeScript type annotations.
+https://github.com/codemix/ts-sql
+
+
+AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.
+https://github.com/agershun/alasql
+
+
 # GO
 
 Go fearless SQL. Sqlvet performs static analysis on raw SQL queries in your Go code base.
