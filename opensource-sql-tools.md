@@ -63,6 +63,7 @@ inferring sql queries from plain-text questions about tables
 https://github.com/paulfitz/mlsql
 https://news.ycombinator.com/item?id=20101381
 https://github.com/uber/py-find-injection
+https://github.com/andialbrecht/sqlparse
 
 
 # RUBY
