@@ -85,5 +85,10 @@ https://github.com/tsqllint/tsqllint
 https://github.com/ashleyglee/TSqlRules
 
 
+# JAVA
+https://github.com/JSQLParser/JSqlParser
+https://github.com/jOOQ/jOOQ
+
+
 # MISC
 https://github.com/analysis-tools-dev/static-analysis
