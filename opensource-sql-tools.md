@@ -27,6 +27,10 @@ Generate Typescript types from Postgres
 https://github.com/kristiandupont/kanel
 
 
+Yet another simple Postgres SQL parser
+https://github.com/oguimbal/pgsql-ast-parser
+
+
 A SQL database implemented purely in TypeScript type annotations.
 https://github.com/codemix/ts-sql
 
@@ -34,6 +38,9 @@ https://github.com/codemix/ts-sql
 AlaSQL.js - JavaScript SQL database for browser and Node.js. Handles both traditional relational tables and nested JSON data (NoSQL). Export, store, and import data from localStorage, IndexedDB, or Excel.
 https://github.com/agershun/alasql
 
+
+An in memory postgres DB instance for your unit tests
+https://github.com/oguimbal/pg-mem
 
 # GO
 
