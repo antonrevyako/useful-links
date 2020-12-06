@@ -31,6 +31,10 @@ Yet another simple Postgres SQL parser
 https://github.com/oguimbal/pgsql-ast-parser
 
 
+Parse SQL (select) statements into abstract syntax tree (AST) and convert ASTs back to SQL.
+https://github.com/godmodelabs/flora-sql-parser
+
+
 A SQL database implemented purely in TypeScript type annotations.
 https://github.com/codemix/ts-sql
 
