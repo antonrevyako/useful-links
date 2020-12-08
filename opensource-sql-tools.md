@@ -56,6 +56,10 @@ Go fearless SQL. Sqlvet performs static analysis on raw SQL queries in your Go c
 https://github.com/houqp/sqlvet
 
 
+Model generator for go-pg package
+https://github.com/dizzyfool/genna
+
+
 Regression Testing your SQL queries
 https://github.com/dimitri/regresql
 
