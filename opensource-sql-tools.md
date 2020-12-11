@@ -110,5 +110,9 @@ https://github.com/JSQLParser/JSqlParser
 https://github.com/jOOQ/jOOQ
 
 
+Coral is a translation, analysis, and query rewrite engine for SQL and other relational languages.
+https://github.com/linkedin/coral
+
+
 # MISC
 https://github.com/analysis-tools-dev/static-analysis
