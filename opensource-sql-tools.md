@@ -85,6 +85,10 @@ https://github.com/uber/py-find-injection
 https://github.com/andialbrecht/sqlparse
 
 
+About
+A SQL linter and auto-formatter for Humans
+https://github.com/sqlfluff/sqlfluff
+
 # RUBY
 
 https://github.com/purcell/sqlint
