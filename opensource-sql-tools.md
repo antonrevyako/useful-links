@@ -50,6 +50,10 @@ https://github.com/agershun/alasql
 An in memory postgres DB instance for your unit tests
 https://github.com/oguimbal/pg-mem
 
+
+Statically validate correctness of all your SQL queries. TypeScript, PostgreSQL
+https://github.com/MedFlyt/mfsqlchecker
+
 # GO
 
 Go fearless SQL. Sqlvet performs static analysis on raw SQL queries in your Go code base.
