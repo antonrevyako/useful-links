@@ -77,8 +77,13 @@ https://twitter.com/phil_eaton
 An extensible MySQL server implementation in Go
 https://github.com/src-d/go-mysql-server
 
+
+Static analysis tool for Golang that protects against SQL injections
 https://github.com/stripe/safesql
 
+
+OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
+https://github.com/cube2222/octosql
 
 # PYTHON
 
