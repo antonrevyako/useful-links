@@ -129,3 +129,8 @@ https://github.com/linkedin/coral
 
 # MISC
 https://github.com/analysis-tools-dev/static-analysis
+
+
+# Papers
+Improving on the Command-Line SQL Experience
+https://medium.com/swlh/improving-on-the-command-line-sql-experience-48c2b544c71b
