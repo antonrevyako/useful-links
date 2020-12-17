@@ -131,6 +131,6 @@ https://github.com/linkedin/coral
 https://github.com/analysis-tools-dev/static-analysis
 
 
-# Papers
+# Articles
 Improving on the Command-Line SQL Experience
 https://medium.com/swlh/improving-on-the-command-line-sql-experience-48c2b544c71b
