@@ -23,6 +23,9 @@ https://github.com/augmentable-dev/gitqlite
 ```gitqlite "SELECT * FROM commits"```
 
 
+# Play Music
+https://relational-pipes.globalcode.info/v_0/examples-jack-midi-generating-1.xhtml
+
 # Cloud
 https://github.com/cloudquery/cloudquery
 
