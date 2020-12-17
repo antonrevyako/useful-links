@@ -21,3 +21,9 @@ https://rockset.com/solutions/mongodb/
 https://github.com/augmentable-dev/gitqlite
 
 ```gitqlite "SELECT * FROM commits"```
+
+
+# Cloud
+https://github.com/cloudquery/cloudquery
+
+```SELECT * FROM aws_elbv2_load_balancers WHERE scheme = 'internet-facing'```
