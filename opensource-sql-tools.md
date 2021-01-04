@@ -142,8 +142,13 @@ https://github.com/launchbadge/sqlx/
 Extensible SQL Lexer and Parser for Rust
 https://github.com/ballista-compute/sqlparser-rs
 
+
 Postgres' query parser, as a Rust crate!
 https://github.com/zombodb/postgres-parser
+
+
+Build Postgres Extensions with Rust!
+https://github.com/zombodb/pgx
 
 
 # C
