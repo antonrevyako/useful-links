@@ -89,12 +89,19 @@ https://github.com/cube2222/octosql
 
 inferring sql queries from plain-text questions about tables
 https://github.com/paulfitz/mlsql
+
+inferring sql queries from plain-text questions about tables
 https://news.ycombinator.com/item?id=20101381
+
+Look for SQL injection attacks in python source code
 https://github.com/uber/py-find-injection
+
+A non-validating SQL parser module for Python
 https://github.com/andialbrecht/sqlparse
 
+A small python based sql parser focusing on finding table dependencies within database views. Currently only working with Snowflake ANSI Sql
+https://github.com/dondaum/parsesql
 
-About
 A SQL linter and auto-formatter for Humans
 https://github.com/sqlfluff/sqlfluff
 
