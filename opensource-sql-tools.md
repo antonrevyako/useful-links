@@ -54,6 +54,18 @@ https://github.com/oguimbal/pg-mem
 Statically validate correctness of all your SQL queries. TypeScript, PostgreSQL
 https://github.com/MedFlyt/mfsqlchecker
 
+SQL(select) parser written with jison. parse SQL into abstract syntax tree(AST) and stringify back to SQL
+https://github.com/JavaScriptor/js-sql-parser
+
+
+JavaScript implentation of SQLite 3 query parser
+https://github.com/codeschool/sqlite-parser
+
+
+A SQL parser written in pure JS
+https://github.com/forward/sql-parser
+
+
 # GO
 
 Go fearless SQL. Sqlvet performs static analysis on raw SQL queries in your Go code base.
@@ -85,6 +97,14 @@ https://github.com/stripe/safesql
 OctoSQL is a query tool that allows you to join, analyse and transform data from multiple databases and file formats using SQL.
 https://github.com/cube2222/octosql
 
+
+A MySQL Compatible SQL Parser
+https://github.com/pingcap/parser
+
+
+SQL Parser implemented in Go (The backbone of this repo is extracted from vitessio/vitess)
+https://github.com/xwb1989/sqlparser
+
 # PYTHON
 
 inferring sql queries from plain-text questions about tables
@@ -105,12 +125,16 @@ https://github.com/dondaum/parsesql
 A SQL linter and auto-formatter for Humans
 https://github.com/sqlfluff/sqlfluff
 
-# RUBY
+Let's make a SQL parser so we can provide a familiar interface to non-sql datastores!
+https://github.com/mozilla/moz-sql-parser
 
+
+# RUBY
+Simple SQL linter supporting ANSI and PostgreSQL syntaxes
 https://github.com/purcell/sqlint
 
-# RUST
 
+# RUST
 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 https://github.com/launchbadge/sqlx/
 
@@ -121,27 +145,65 @@ https://github.com/ballista-compute/sqlparser-rs
 Postgres' query parser, as a Rust crate!
 https://github.com/zombodb/postgres-parser
 
+
+# C
+C library for accessing the PostgreSQL parser outside of the server environment
+https://github.com/lfittl/libpg_query
+
 # C++
 Automatically identify anti-patterns in SQL queries
 https://github.com/jarulraj/sqlcheck
 
 
+SQL Parser for C++. Building C++ object structure from SQL statements.
+https://github.com/hyrise/sql-parser
+
+
 # C#
+Configurable linting for TSQL
 https://github.com/tsqllint/tsqllint
+
+TSQL Static Code Analysis Rules for SQL Server
 https://github.com/ashleyglee/TSqlRules
+
+TSQL parser with Microsoft SQL Server Transact-SQL ScriptDom
+https://github.com/GCer-Hidenori/TSQLScriptDomParser
 
 
 # JAVA
+JSqlParser parses an SQL statement and translate it into a hierarchy of Java classes. The generated hierarchy can be navigated using the Visitor Pattern
 https://github.com/JSQLParser/JSqlParser
-https://github.com/jOOQ/jOOQ
 
+jOOQ is the best way to write SQL in Java
+https://github.com/jOOQ/jOOQ
 
 Coral is a translation, analysis, and query rewrite engine for SQL and other relational languages.
 https://github.com/linkedin/coral
 
 
+# PHP
+A pure PHP SQL (non validating) parser w/ focus on MySQL dialect of SQL
+https://github.com/greenlion/PHP-SQL-Parser
+
+
+A validating SQL lexer and parser with a focus on MySQL dialect.
+https://github.com/phpmyadmin/sql-parser
+
+
+# ERLANG
+LALR grammar based SQL Parser
+https://github.com/KonnexionsGmbH/sqlparse
+
+
+# HASKELL
+Parsing and analysis of Vertica, Hive, and Presto SQL.
+https://github.com/uber/queryparser
+
+
 # MISC
 https://github.com/analysis-tools-dev/static-analysis
+
+sqlparser.com
 
 
 # Articles
