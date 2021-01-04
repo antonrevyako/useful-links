@@ -108,6 +108,10 @@ The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time check
 https://github.com/launchbadge/sqlx/
 
 
+Extensible SQL Lexer and Parser for Rust
+https://github.com/ballista-compute/sqlparser-rs
+
+
 # C++
 Automatically identify anti-patterns in SQL queries
 https://github.com/jarulraj/sqlcheck
