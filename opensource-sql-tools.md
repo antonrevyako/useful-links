@@ -118,6 +118,8 @@ https://github.com/launchbadge/sqlx/
 Extensible SQL Lexer and Parser for Rust
 https://github.com/ballista-compute/sqlparser-rs
 
+Postgres' query parser, as a Rust crate!
+https://github.com/zombodb/postgres-parser
 
 # C++
 Automatically identify anti-patterns in SQL queries
