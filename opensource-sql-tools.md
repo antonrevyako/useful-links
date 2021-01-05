@@ -106,6 +106,11 @@ https://github.com/pingcap/parser
 * SQL Parser implemented in Go (The backbone of this repo is extracted from vitessio/vitess)
 https://github.com/xwb1989/sqlparser
 
+
+* A golang expression evaluator & Library to build SQL query engine based functionality
+https://github.com/araddon/qlbridge
+
+
 # PYTHON
 * Inferring sql queries from plain-text questions about tables
 https://github.com/paulfitz/mlsql
@@ -205,6 +210,11 @@ https://github.com/KonnexionsGmbH/sqlparse
 # HASKELL
 * Parsing and analysis of Vertica, Hive, and Presto SQL.
 https://github.com/uber/queryparser
+
+
+# COQ, LEAN, ...
+* Cosette is an automated SQL solver
+https://github.com/uwdb/cosette
 
 
 # RUBY
