@@ -85,6 +85,9 @@
 - A golang expression evaluator & Library to build SQL query engine based functionality
   https://github.com/araddon/qlbridge
 
+- SQL Optimizer And Rewriter
+  https://github.com/XiaoMi/soar
+
 # PYTHON
 
 - Inferring sql queries from plain-text questions about tables
