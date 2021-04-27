@@ -88,6 +88,9 @@
 - SQL Optimizer And Rewriter
   https://github.com/XiaoMi/soar
 
+- Type safe SQL builder with code generation and automatic query result data mapping (JOOQ for go)
+  https://github.com/go-jet/jet
+
 # PYTHON
 
 - Inferring sql queries from plain-text questions about tables
