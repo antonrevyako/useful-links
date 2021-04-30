@@ -135,6 +135,7 @@
 
 - Automatically identify anti-patterns in SQL queries
   https://github.com/jarulraj/sqlcheck
+  https://github.com/moeryomenko/sqlcheck
 
 - SQL Parser for C++. Building C++ object structure from SQL statements.
   https://github.com/hyrise/sql-parser
