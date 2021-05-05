@@ -60,6 +60,16 @@ Experimental tool to query K8s API using plain SQL
 $ kubesql -q "SELECT namespace FROM context WHERE pod.status.phase = 'Running'"
 ```
 
+# Terraform
+https://github.com/mazen160/tfquery
+
+Run SQL queries on your Terraform infrastructure. Query resources and analyze its configuration using a SQL-powered framework.
+
+```sh
+tfquery -q 'select count(*) as count from resources;'  --tfstate-dir /path/to/terraform-states
+```
+
+
 # Geodata
 https://www.vtiler.com/
 
@@ -68,3 +78,23 @@ Display your spatial data on a map, no server required. Simply define the SQL qu
 ```sql 
 SELECT id, name, line AS geom FROM roads WHERE line && bbox;
 ```
+
+# Blockchain
+http://blockchainsql.io/
+
+SQL Server for queries various blockchains
+
+
+# Files
+https://github.com/jhspetersson/fselect
+
+Find files with SQL-like queries
+
+```sh
+fselect size, path from /home/user where name = '*.cfg' or name = '*.tmp'
+```
+
+https://flatbase.io/
+
+Query your CSV and JSON files with SQL.
+Flatbase is the data science platform for developers. Upload files, write SQL, visualize results, and share with collaborators.
