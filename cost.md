@@ -4,6 +4,10 @@ https://docs.google.com/spreadsheets/d/1os4lnrA8OPj6_fSNvXYvFmIEwOMkV2Q2L2irCnjS
 
 https://twiliostartups.typeform.com/to/Kd3JLy
 
+
+A collection of services with great free tiers for developers on a budget.
+https://github.com/255kb/stack-on-a-budget
+
 # AWS
 wework + aws:
 - https://www.wework.com/ru-RU/signup?plan_ref=we_membership
