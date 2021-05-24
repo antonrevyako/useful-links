@@ -112,6 +112,12 @@
 - Let's make a SQL parser so we can provide a familiar interface to non-sql datastores!
   https://github.com/mozilla/moz-sql-parser
 
+- Compares the PostgreSQL schema between two databases and generates SQL statements that can be run manually against the second database to make their schemas match.
+  https://github.com/joncrlsn/pgdiff
+
+- Like diff but for PostgreSQL schemas
+  https://github.com/djrobstep/migra
+
 # RUST
 
 - The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
@@ -130,6 +136,9 @@
 
 - C library for accessing the PostgreSQL parser outside of the server environment
   https://github.com/lfittl/libpg_query
+
+- pgquarrel compares PostgreSQL database schemas (DDL)
+  https://github.com/eulerto/pgquarrel
 
 # C++
 
