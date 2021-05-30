@@ -15,7 +15,7 @@ wework + aws:
 
 
 - https://aws.amazon.com/activate/ Кредиты на любые услуги AWS для стартапов	до 100 тысяч $	до 1 тысяч $ (иногда можно договориться до 5 тысяч)
-
+- https://aws.amazon.com/ru/activate/founders/
 
 Как от AWS получить 1000$ на стартап:
 https://aws.amazon.com/blogs/aws/aws-has-launched-the-activate-founders-package-for-startups-%F0%9F%9A%80/
