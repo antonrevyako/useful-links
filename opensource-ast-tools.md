@@ -6,3 +6,6 @@
 - Bison in JavaScript
   http://jison.org
   https://github.com/zaach/jison
+
+- String parser combinators for TypeScript
+  https://github.com/gcanti/parser-ts
