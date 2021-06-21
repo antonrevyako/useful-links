@@ -21,6 +21,9 @@
 - Generate Typescript types from Postgres
   https://github.com/kristiandupont/kanel
 
+- A postgres -> typescript interface generator
+  https://github.com/vramework/schemats
+
 - Yet another simple Postgres SQL parser
   https://github.com/oguimbal/pgsql-ast-parser
 
