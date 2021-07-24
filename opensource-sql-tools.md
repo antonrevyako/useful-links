@@ -121,6 +121,9 @@
 - Like diff but for PostgreSQL schemas
   https://github.com/djrobstep/migra
 
+- Making it easy to query APIs via SQL
+  https://github.com/betodealmeida/shillelagh/
+
 # RUST
 
 - The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
