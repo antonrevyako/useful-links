@@ -216,6 +216,11 @@
 - Simple SQL linter supporting ANSI and PostgreSQL syntaxes
   https://github.com/purcell/sqlint
 
+# V
+
+- SQL database written in pure V
+  https://github.com/elliotchance/vsql
+
 # MISC
 
 - Parsing, formatting, modification and analysis
