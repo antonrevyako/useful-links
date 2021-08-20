@@ -54,6 +54,9 @@
 - A SQL parser written in pure JS
   https://github.com/forward/sql-parser
 
+- (archived) JavaScript implentation of SQLite 3 query parser
+  https://github.com/codeschool/sqlite-parser
+
 # GO
 
 - Go fearless SQL. Sqlvet performs static analysis on raw SQL queries in your Go code base.
@@ -70,8 +73,11 @@
   https://notes.eatonphil.com/database-basics-expressions-and-where.html
   https://twitter.com/phil_eaton
 
-- An extensible MySQL server implementation in Go
+- (archived) An extensible MySQL server implementation in Go
   https://github.com/src-d/go-mysql-server
+
+- A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
+  https://github.com/dolthub/go-mysql-server
 
 - Static analysis tool for Golang that protects against SQL injections
   https://github.com/stripe/safesql
@@ -93,6 +99,9 @@
 
 - Type safe SQL builder with code generation and automatic query result data mapping (JOOQ for go)
   https://github.com/go-jet/jet
+
+- simply SQL Parser for Go ( powered by vitess and TiDB )
+  https://github.com/blastrain/vitess-sqlparser
 
 # PYTHON
 
@@ -183,6 +192,8 @@
 - Coral is a translation, analysis, and query rewrite engine for SQL and other relational languages.
   https://github.com/linkedin/coral
 
+- The official home of the Presto distributed SQL query engine for big data
+  https://github.com/prestodb/presto
 # PHP
 
 - A pure PHP SQL (non validating) parser w/ focus on MySQL dialect of SQL
