@@ -25,6 +25,9 @@ Running sql update commands on images
 ./img_sql.py -i samples/matrix.jpg -o samples/matrix_out.jpg -s 'update pixels set r = g, b = r, g = b where x > 700'
 ```
 
+https://github.com/chunky/sqlraytracer
+Everyone writes a Raytracer eventually
+
 # MongoDB, DynamoDB, Kafka, S3
 https://rockset.com/solutions/mongodb/
 
