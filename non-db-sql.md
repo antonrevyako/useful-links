@@ -26,6 +26,7 @@ Running sql update commands on images
 ```
 
 https://github.com/chunky/sqlraytracer
+
 Everyone writes a Raytracer eventually
 
 # MongoDB, DynamoDB, Kafka, S3
