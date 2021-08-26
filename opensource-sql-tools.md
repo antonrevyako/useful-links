@@ -54,6 +54,9 @@
 - A SQL parser written in pure JS
   https://github.com/forward/sql-parser
 
+- Evidence enables analysts to deliver a polished business intelligence system using SQL and markdown
+  https://github.com/evidence-dev/evidence
+
 - (archived) JavaScript implentation of SQLite 3 query parser
   https://github.com/codeschool/sqlite-parser
 
