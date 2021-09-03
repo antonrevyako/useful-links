@@ -136,6 +136,9 @@
 - Making it easy to query APIs via SQL
   https://github.com/betodealmeida/shillelagh/
 
+- Python SQL Parser and Transpiler
+  https://github.com/tobymao/sqlglot
+
 # RUST
 
 - The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
