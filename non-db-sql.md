@@ -1,4 +1,5 @@
 # JSON logs
+
 https://github.com/avz/jl-sql
 
 SQL for JSON and CSV streams
@@ -8,6 +9,7 @@ cat data.json | jl-sql 'SELECT key, SUM(value) AS sum, COUNT(*) AS count GROUP B
 ```
 
 # OS details
+
 https://osquery.io/
 
 SQL powered operating system instrumentation, monitoring, and analytics.
@@ -17,6 +19,7 @@ osqueryi --json "SELECT * FROM mounts m, disk_encryption d WHERE m.device_alias 
 ```
 
 # Images
+
 https://github.com/escherize/img_sql/
 
 Running sql update commands on images
@@ -30,10 +33,11 @@ https://github.com/chunky/sqlraytracer
 Everyone writes a Raytracer eventually
 
 # MongoDB, DynamoDB, Kafka, S3
+
 https://rockset.com/solutions/mongodb/
 
-
 # Git
+
 https://github.com/augmentable-dev/gitqlite
 
 Query git repositories with SQL. Generate reports, perform status checks, analyze codebases.
@@ -42,11 +46,12 @@ Query git repositories with SQL. Generate reports, perform status checks, analyz
 gitqlite "SELECT * FROM commits"
 ```
 
-
 # Play Music
+
 https://relational-pipes.globalcode.info/v_0/examples-jack-midi-generating-1.xhtml
 
 # Cloud
+
 https://github.com/cloudquery/cloudquery
 
 Cloudquery transforms your cloud infrastructure into SQL database for easy monitoring, governance and security.
@@ -56,6 +61,7 @@ SELECT * FROM aws_elbv2_load_balancers WHERE scheme = 'internet-facing'
 ```
 
 # k8s
+
 https://github.com/Dentrax/kubesql
 
 Experimental tool to query K8s API using plain SQL
@@ -65,6 +71,7 @@ $ kubesql -q "SELECT namespace FROM context WHERE pod.status.phase = 'Running'"
 ```
 
 # Terraform
+
 https://github.com/mazen160/tfquery
 
 Run SQL queries on your Terraform infrastructure. Query resources and analyze its configuration using a SQL-powered framework.
@@ -73,23 +80,24 @@ Run SQL queries on your Terraform infrastructure. Query resources and analyze it
 tfquery -q 'select count(*) as count from resources;'  --tfstate-dir /path/to/terraform-states
 ```
 
-
 # Geodata
+
 https://www.vtiler.com/
 
 Display your spatial data on a map, no server required. Simply define the SQL query and get a ready-to-use tile endpoint
 
-```sql 
+```sql
 SELECT id, name, line AS geom FROM roads WHERE line && bbox;
 ```
 
 # Blockchain
+
 http://blockchainsql.io/
 
 SQL Server for queries various blockchains
 
-
 # Files
+
 https://github.com/jhspetersson/fselect
 
 Find files with SQL-like queries
@@ -102,3 +110,7 @@ https://flatbase.io/
 
 Query your CSV and JSON files with SQL.
 Flatbase is the data science platform for developers. Upload files, write SQL, visualize results, and share with collaborators.
+
+# Infrastructure
+
+https://www.iasql.com/
