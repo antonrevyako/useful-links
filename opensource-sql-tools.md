@@ -200,6 +200,7 @@
 
 - The official home of the Presto distributed SQL query engine for big data
   https://github.com/prestodb/presto
+
 # PHP
 
 - A pure PHP SQL (non validating) parser w/ focus on MySQL dialect of SQL
@@ -207,6 +208,11 @@
 
 - A validating SQL lexer and parser with a focus on MySQL dialect.
   https://github.com/phpmyadmin/sql-parser
+
+# CLOJURE
+
+- Turn Clojure data structures into SQL
+  https://github.com/seancorfield/honeysql
 
 # ERLANG
 
