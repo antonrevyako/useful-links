@@ -41,6 +41,12 @@
   gitqlite "SELECT * FROM commits"
   ```
 
+- Query git repositories with SQL. Generate reports, perform status checks, analyze codebases.
+  https://github.com/askgitdev/askgit
+  ```sql
+  SELECT count(*) FROM commits WHERE author_email = 'user@email.com'
+  ```
+
 # Play Music
 
 - Generating and sending MIDI messages
