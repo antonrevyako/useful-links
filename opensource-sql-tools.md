@@ -106,6 +106,9 @@
 - simply SQL Parser for Go ( powered by vitess and TiDB )
   https://github.com/blastrain/vitess-sqlparser
 
+- Simplicity-focused, template based SQL query builder
+  https://github.com/sanggonlee/gosq
+
 # PYTHON
 
 - Inferring sql queries from plain-text questions about tables
