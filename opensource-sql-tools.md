@@ -156,6 +156,9 @@
 - Build Postgres Extensions with Rust!
   https://github.com/zombodb/pgx
 
+- linter for PostgreSQL, focused on migrations
+  https://github.com/sbdchd/squawk
+
 # C
 
 - C library for accessing the PostgreSQL parser outside of the server environment
