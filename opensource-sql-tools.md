@@ -109,6 +109,9 @@
 - Simplicity-focused, template based SQL query builder
   https://github.com/sanggonlee/gosq
 
+- Generate type safe Go from SQL
+  https://github.com/kyleconroy/sqlc
+
 # PYTHON
 
 - Inferring sql queries from plain-text questions about tables
