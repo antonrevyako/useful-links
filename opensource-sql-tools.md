@@ -112,6 +112,9 @@
 - Generate type safe Go from SQL
   https://github.com/kyleconroy/sqlc
 
+- Idempotent schema management for MySQL, PostgreSQL, and more
+  https://github.com/k0kubun/sqldef
+
 # PYTHON
 
 - Inferring sql queries from plain-text questions about tables
