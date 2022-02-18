@@ -148,6 +148,9 @@
 - Python SQL Parser and Transpiler
   https://github.com/tobymao/sqlglot
 
+- SQL Lineage Analysis Tool powered by Python
+  https://github.com/reata/sqllineage
+
 # RUST
 
 - The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
