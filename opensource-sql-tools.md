@@ -168,6 +168,9 @@
 - linter for PostgreSQL, focused on migrations
   https://github.com/sbdchd/squawk
 
+- PRQL is a modern language for transforming data — a simple, powerful, pipelined SQL replacement
+  https://github.com/prql/prql
+
 # C
 
 - C library for accessing the PostgreSQL parser outside of the server environment
