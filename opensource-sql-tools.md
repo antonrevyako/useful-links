@@ -60,6 +60,9 @@
 - (archived) JavaScript implentation of SQLite 3 query parser
   https://github.com/codeschool/sqlite-parser
 
+- An in memory postgres DB instance for your unit tests
+  https://github.com/oguimbal/pg-mem
+
 # GO
 
 - Go fearless SQL. Sqlvet performs static analysis on raw SQL queries in your Go code base.

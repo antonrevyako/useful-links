@@ -9,3 +9,6 @@
 
 - String parser combinators for TypeScript
   https://github.com/gcanti/parser-ts
+
+- Yet another simple Postgres SQL parser
+  https://github.com/oguimbal/pgsql-ast-parser
