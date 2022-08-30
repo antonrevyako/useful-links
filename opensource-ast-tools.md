@@ -12,3 +12,6 @@
 
 - Yet another simple Postgres SQL parser
   https://github.com/oguimbal/pgsql-ast-parser
+
+- This repo is a collection of sample code for some great SQL parsing libraries in a few major languages
+  https://github.com/multiprocessio/sql-parsers
