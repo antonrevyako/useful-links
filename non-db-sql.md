@@ -114,5 +114,10 @@
   Flatbase is the data science platform for developers. Upload files, write SQL, visualize results, and share with collaborators.
   https://flatbase.io/
   
- - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
+- CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
   https://github.com/noborus/trdsql
+
+# Games
+
+- A little gomoku game, implemented in pure SQL/plpgSQL
+  https://github.com/undergrinder/gomoql
