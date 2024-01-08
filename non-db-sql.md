@@ -121,3 +121,7 @@
 
 - A little gomoku game, implemented in pure SQL/plpgSQL
   https://github.com/undergrinder/gomoql
+
+# AI
+- GPT in 500 lines of SQL
+  https://explainextended.com/2023/12/31/happy-new-year-15/
