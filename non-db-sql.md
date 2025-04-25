@@ -113,7 +113,6 @@
 - Query your CSV and JSON files with SQL.
   Flatbase is the data science platform for developers. Upload files, write SQL, visualize results, and share with collaborators.
   https://flatbase.io/
-  
 - CLI tool that can execute SQL queries on CSV, LTSV, JSON and TBLN.
   https://github.com/noborus/trdsql
 
@@ -122,6 +121,10 @@
 - A little gomoku game, implemented in pure SQL/plpgSQL
   https://github.com/undergrinder/gomoql
 
+- A Doom-like game using DuckDB
+  https://github.com/patricktrainer/duckdb-doom
+
 # AI
+
 - GPT in 500 lines of SQL
   https://explainextended.com/2023/12/31/happy-new-year-15/
